@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeskipper - an IT consultant at Datamind-dot-no. I work with Mac, Linux, and Windows, MDM, VMware, firewalls, network and more.
+- 👋 Hi, I’m Martinus Verburg - an IT consultant at Datamind-dot-no. I work with Mac, Linux, and Windows, MDM, VMware, firewalls, network and more.
 - 👀 I’m interested in Swift, GoLang, Python, zsh, bash
 
 
